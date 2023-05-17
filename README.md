@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Melk Xavier 👋
 
 - 🔭 currently I still don't work as a programmer / Atualmente ainda não trabalho como programador
 - 🌱 At the moment I'm deepening my knowledge in Flask / No momento estou aprofundando meus conhecimentos em Flask
